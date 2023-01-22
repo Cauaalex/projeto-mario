@@ -1,0 +1,44 @@
+@media (max-width: 1200px) {
+    body {
+        background-color: #f44336;
+    }
+
+    .fundo-video {
+        display: none;
+    }
+    
+    .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        gap: 20px;
+    }
+
+    .container .mario {
+        max-width: 40%;
+    }
+
+    .container .informacoes {
+        display: flex;
+        align-items: center;
+        flex-direction: 
+        column;
+    }
+
+    .container .descricao {
+        color: #ffffff;
+        text-align: center;
+    }
+
+    .container .botao-trailer {
+        background-color: #263238;
+    }
+}
+
+@midia (max-width: 500px) {
+
+     .cabecalho 
+        flex-wrap: wrap;
+        justify-content: center;
+    
+     }
